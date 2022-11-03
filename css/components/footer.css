@@ -1,0 +1,19 @@
+.footer {
+  width: 100vw;
+  min-height: 25vh;
+  background-color: black;
+  margin-top: 5rem;
+  color: white;
+}
+
+.footer-content {
+  text-align: center;
+  padding-top: 5rem ;
+}
+.footer-content i {
+margin: 0 1rem;
+}
+
+.footer-content p {
+  margin-top: 1rem;
+}

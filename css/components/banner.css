@@ -1,0 +1,18 @@
+.banner {
+  width: 100vw;
+  min-height: 50vh;
+  background: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.50)),  url("https://images.unsplash.com/photo-1521017432531-fbd92d768814?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80");
+  background-size: cover;
+  background-position: center;
+  padding: 10rem 0;
+  margin-bottom: 2rem;
+  color: white;
+}
+
+.banner-title {
+  font-size: 5rem;
+}
+
+.banner-text {
+  font-size: 2rem;
+}
